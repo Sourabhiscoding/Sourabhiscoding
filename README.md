@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-👷 I'm currently working on:<br>Building AI-driven solutions for business problems and fullstack development projects with a focus on delivering job-ready skills.<br><br>🤝 I'm looking to collaborate on:<br>Open-source AI and data science projects, content creation for AI education, and innovative tools that simplify learning.<br><br>🧠 I'm looking for help with:<br>Scaling machine learning models and improving deployment strategies for production-level applications.<br><br>🌱 I'm currently learning:<br>Advanced deep learning techniques, cloud-based AI infrastructures, and serverless architectures.<br><br>💬 Ask me about:<br>AI, data science, fullstack development, and how to create engaging educational content.<br><br>⚡ Fun fact:<br>I once automated my coffee machine using a Raspberry Pi and Python, saving countless mornings!
+
 
 
 ## 🌐 Socials:
